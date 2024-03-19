@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226614602544",
+    "project_id": "phone-directory-a17cb",
+    "storage_bucket": "phone-directory-a17cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226614602544:android:71ca28859792579972f6f5",
+        "android_client_info": {
+          "package_name": "com.navid.rahman.phonedirectory_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67-RhzM244l7YDMo0UorD7M4v7uhKmZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
